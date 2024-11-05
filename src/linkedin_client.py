@@ -34,7 +34,7 @@ class LinkedInClient:
             profile_id = self.get_linkedin_profile_id()
             post_data = {
                 "author": f"urn:li:person:{profile_id}",
-                "lifecycleState": "DRAFT",
+                "lifecycleState": "PUBLISHED",
                 "specificContent": {
                     "com.linkedin.ugc.ShareContent": {
                         "shareCommentary": {

@@ -11,7 +11,7 @@ def main():
         # W realnej aplikacji zapisz token do pliku .env lub bazy danych.
 
     client = LinkedInClient(access_token)
-    message = "Nowy post na LinkedIn z LinkedIn API i Python!"
+    message = "Nowy post na LinkedIn wrzucony przy udziale GitHub Actions!"
     client.create_post(message)
 
 if __name__ == "__main__":
