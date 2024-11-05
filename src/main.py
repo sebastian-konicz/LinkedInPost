@@ -1,6 +1,6 @@
+import os
 # from config.config import LINKEDIN_ACCESS_TOKEN
 from src.linkedin_client import LinkedInClient
-from config.secrets import get_access_token
 
 def main():
     LINKEDIN_ACCESS_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
