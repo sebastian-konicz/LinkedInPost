@@ -2,7 +2,7 @@ name: LinkedIn Auto Post
 
 on:
   schedule:
-    - cron: "0 9 * * *"  # Codziennie o 9:00 UTC (sprawdź swoją strefę czasową!)
+    - cron: "0 16 * * *"  # Codziennie o 9:00 UTC (sprawdź swoją strefę czasową!)
 
 jobs:
   publish_post:
