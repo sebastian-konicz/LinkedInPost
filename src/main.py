@@ -1,9 +1,14 @@
 import os
-# from config.config import LINKEDIN_ACCESS_TOKEN
+import sys
+
+# Dodaje ścieżkę głównego katalogu repozytorium
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from config.config import LINKEDIN_ACCESS_TOKEN
 from src.linkedin_client import LinkedInClient
 
 def main():
-    LINKEDIN_ACCESS_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
+    # LINKEDIN_ACCESS_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
     access_token = LINKEDIN_ACCESS_TOKEN
 
     client = LinkedInClient(access_token)
