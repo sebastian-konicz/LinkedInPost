@@ -23,12 +23,10 @@ def main():
     # running ai image creating script
     article_image()
 
-    with open('post_text.txt', 'r', encoding='utf-8') as file:
+    with open('data/post_text.txt', 'r', encoding='utf-8') as file:
         post_text = file.read()
 
-    print(post_text)
-
-    # runnging script to post article on LinkedIn
+    # postin article with photo on LinkedIn
     client.create_post(post_text, "post_image.png")
 
 if __name__ == "__main__":

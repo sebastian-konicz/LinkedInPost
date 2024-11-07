@@ -18,7 +18,7 @@ def article_image():
 
     # ------------------------------------GETTING SUMMARY FOR DALLE PROMPT------------------------------------
     # opening aritcle text
-    with open('article_text.txt', 'r') as file:
+    with open('data/article_text.txt', 'r') as file:
         # Wczytywanie całej zawartości pliku
         article = file.read()
 
@@ -68,9 +68,6 @@ def article_image():
 
         image_url = response.data[0].url
 
-        print(image_url)
-        print(response.data[0])
-
         # Pobierz obraz z URL
         image_response = requests.get(image_url)
 
@@ -78,8 +75,8 @@ def article_image():
         if image_response.status_code == 200:
             # Otwórz obraz za pomocą PIL i zapisz go jako plik
             image = Image.open(BytesIO(image_response.content))
-            image.save("post_image.png")
-            print("Obraz został zapisany jako 'generated_image.png'")
+            image.save("data/post_image.png")
+            print("Obraz został zapisany jako 'post_image.png'")
         else:
             print("Błąd podczas pobierania obrazu")
 

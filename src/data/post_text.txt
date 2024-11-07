@@ -1,0 +1,17 @@
+🎮 **Rewolucja w grach wideo**  
+Pierwsza w pełni generowana przez AI gra wideo, Oasis, jest już dostępna. Stworzona przez izraelską firmę Decart we współpracy z Etched, Oasis zmienia sposób, w jaki doświadczamy gier. W przeciwieństwie do tradycyjnych gier, które opierają się na wcześniej zaprojektowanych zasobach, Oasis generuje środowisko, fizykę i elementy rozgrywki w czasie rzeczywistym. Dzięki temu każda akcja gracza dynamicznie wpływa na otoczenie.
+
+🚀 **Technologia stojąca za Oasis**  
+Oasis wykorzystuje architekturę opartą na transformatorach, wzbogaconą o Variational Autoencoder i mechanizm uwagi spatiotemporalnej. Pozwala to na efektywne przetwarzanie danych przestrzennych i czasowych, co zapewnia płynną rozgrywkę. System ten eliminuje wąskie gardła typowe dla modeli wideo, umożliwiając płynne działanie nawet w rozdzielczości 4K.
+
+🖼️ **Tworzenie własnych światów**  
+Oasis oferuje unikalną funkcję, która pozwala na przesyłanie własnych obrazów i przekształcanie ich w grywalne środowiska. Dzięki temu gracze mogą tworzyć spersonalizowane doświadczenia, które zachowują wszystkie interaktywne możliwości systemu bazowego.
+
+🔮 **Przyszłość gier wideo**  
+AI powoli rewolucjonizuje przemysł gier wideo, ale technologia ta jest jeszcze w początkowej fazie. Chociaż obecne wersje mogą być niedoskonałe, potencjał jest ogromny. W miarę jak więcej osób będzie testować prototypy, firmy mogą zainwestować w badania, aby być pierwszymi, które wprowadzą pełnowymiarowy produkt na rynek.
+
+💡 **Podsumowanie i perspektywy**  
+Oasis to pierwszy krok ku przyszłości, w której tradycyjne silniki gier mogą stać się przestarzałe. Chociaż obecna wersja może nie dorównywać grom dużych studiów, szybki rozwój AI sugeruje, że zmiany mogą nastąpić szybciej, niż się spodziewamy.
+
+Źródło: [The First Fully AI-Generated Video Game Is Here](https://generativeai.pub/the-first-fully-ai-generated-video-game-is-here-e52e4bf78d2d)  
+#AIGaming #OasisGame #Decart #Etched #AIRevolution #FutureOfGaming #GameDevelopment #AIInnovation #GenerativeAI #VideoGames
