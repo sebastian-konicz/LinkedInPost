@@ -26,8 +26,10 @@ def main():
     with open('data/post_text.txt', 'r', encoding='utf-8') as file:
         post_text = file.read()
 
-    # postin article with photo on LinkedIn
-    client.create_post(post_text, "post_image.png")
+    print(post_text)
+
+    # # postin article with photo on LinkedIn
+    # client.create_post(post_text, "data/post_image.png")
 
 if __name__ == "__main__":
     main()

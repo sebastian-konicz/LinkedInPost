@@ -1,17 +1,11 @@
-🎮 **Rewolucja w grach wideo**  
-Pierwsza w pełni generowana przez AI gra wideo, Oasis, jest już dostępna. Stworzona przez izraelską firmę Decart we współpracy z Etched, Oasis zmienia sposób, w jaki doświadczamy gier. W przeciwieństwie do tradycyjnych gier, które opierają się na wcześniej zaprojektowanych zasobach, Oasis generuje środowisko, fizykę i elementy rozgrywki w czasie rzeczywistym. Dzięki temu każda akcja gracza dynamicznie wpływa na otoczenie.
+🎮 **Rewolucja w grach wideo**: Artykuł opisuje premierę pierwszej gry wideo generowanej w pełni przez AI, nazwanej Oasis, stworzonej przez izraelską firmę Decart we współpracy z Etched. Oasis to gra typu open-world, która generuje środowisko, fizykę i elementy rozgrywki w czasie rzeczywistym, reagując na działania gracza. Dzięki zastosowaniu zaawansowanej architektury opartej na transformatorach i mechanizmach uwagi, Oasis oferuje płynną rozgrywkę nawet w rozdzielczości 4K.
 
-🚀 **Technologia stojąca za Oasis**  
-Oasis wykorzystuje architekturę opartą na transformatorach, wzbogaconą o Variational Autoencoder i mechanizm uwagi spatiotemporalnej. Pozwala to na efektywne przetwarzanie danych przestrzennych i czasowych, co zapewnia płynną rozgrywkę. System ten eliminuje wąskie gardła typowe dla modeli wideo, umożliwiając płynne działanie nawet w rozdzielczości 4K.
+🖼️ **Personalizacja świata gry**: Unikalną cechą Oasis jest możliwość tworzenia spersonalizowanych środowisk gry poprzez przesyłanie własnych obrazów, które są integrowane z silnikiem fizyki gry. Dzięki temu gracze mogą tworzyć unikalne doświadczenia, które zachowują interaktywność podstawowego systemu.
 
-🖼️ **Tworzenie własnych światów**  
-Oasis oferuje unikalną funkcję, która pozwala na przesyłanie własnych obrazów i przekształcanie ich w grywalne środowiska. Dzięki temu gracze mogą tworzyć spersonalizowane doświadczenia, które zachowują wszystkie interaktywne możliwości systemu bazowego.
+🚀 **Przyszłość gier wideo**: Choć technologia AI w grach jest jeszcze w początkowej fazie, Oasis pokazuje potencjał, jaki niesie ze sobą generowanie gier przez AI. Mimo że jakość grafiki i animacji nie dorównuje jeszcze produkcjom dużych studiów, rozwój technologii AI jest szybki, co może wkrótce zmienić oblicze branży gier.
 
-🔮 **Przyszłość gier wideo**  
-AI powoli rewolucjonizuje przemysł gier wideo, ale technologia ta jest jeszcze w początkowej fazie. Chociaż obecne wersje mogą być niedoskonałe, potencjał jest ogromny. W miarę jak więcej osób będzie testować prototypy, firmy mogą zainwestować w badania, aby być pierwszymi, które wprowadzą pełnowymiarowy produkt na rynek.
+🔍 **Wyzwania i perspektywy**: Pierwsze wersje technologii często spotykają się z mieszanymi opiniami, ale historia pokazuje, że z czasem mogą one ewoluować w coś znacznie bardziej zaawansowanego. Oasis to krok w kierunku przyszłości, w której tradycyjne silniki gier mogą stać się przestarzałe, a deweloperzy będą musieli przemyśleć swoje role.
 
-💡 **Podsumowanie i perspektywy**  
-Oasis to pierwszy krok ku przyszłości, w której tradycyjne silniki gier mogą stać się przestarzałe. Chociaż obecna wersja może nie dorównywać grom dużych studiów, szybki rozwój AI sugeruje, że zmiany mogą nastąpić szybciej, niż się spodziewamy.
+Źródło: [The First Fully AI-Generated Video Game Is Here](https://generativeai.pub/the-first-fully-ai-generated-video-game-is-here-e52e4bf78d2d)
 
-Źródło: [The First Fully AI-Generated Video Game Is Here](https://generativeai.pub/the-first-fully-ai-generated-video-game-is-here-e52e4bf78d2d)  
-#AIGaming #OasisGame #Decart #Etched #AIRevolution #FutureOfGaming #GameDevelopment #AIInnovation #GenerativeAI #VideoGames
+#AI #GameDevelopment #OpenWorld #Innovation #Decart #Etched #FutureOfGaming #AIRevolution #OasisGame #aigeneratedpost
