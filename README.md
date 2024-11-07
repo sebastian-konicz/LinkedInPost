@@ -1,5 +1,6 @@
 # LinkedIn Post Automation Project
 This project automates the process of posting on LinkedIn using the LinkedIn API and integrates with OpenAI's API to generate content. The project is designed to streamline LinkedIn posting by fetching article data, creating posts with images, and publishing them.
+![Logo projektu](src/data/project_logo.png)
 
 ## Features
 - **Automated LinkedIn Posts**: Automatically post on LinkedIn with generated or fetched content.

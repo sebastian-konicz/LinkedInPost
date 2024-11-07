@@ -11,6 +11,8 @@ LINKEDIN_REDIRECT_URI = os.getenv("LINKEDIN_REDIRECT_URI")
 LINKEDIN_ACCESS_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
+# https://www.linkedin.com/developers/tools/oauth/token-generator?clientId={LINKEDIN_CLIENT_ID}}
+
 # Opcjonalnie: Rzucaj wyjątkiem, jeśli klucz nie jest ustawiony
 if not all([LINKEDIN_CLIENT_ID, LINKEDIN_CLIENT_SECRET, LINKEDIN_REDIRECT_URI, LINKEDIN_ACCESS_TOKEN, OPENAI_API_KEY]):
     raise ValueError("Brakuje danych uwierzytelniających LinkedIn i OpenAI. Sprawdź plik .env.")
