@@ -97,7 +97,7 @@ def medium_articles():
     # file_name = f'medium_data_{year}_{month}_{day}'
 
     # Sprawdzenie i utworzenie katalogu 'data', jeśli nie istnieje
-    os.makedirs('data', exist_ok=True)
+    os.makedirs('src/data', exist_ok=True)
 
     medium_df.to_csv(f'data/{file_name}.csv', index=False)
     # medium_df.to_parquet(f'data/{file_name}.csv', engine='pyarrow', compression='gzip')
