@@ -1,14 +1,14 @@
-🎮 **Nowa era gier wideo**  
-Pierwsza w pełni generowana przez AI gra wideo, nazwana Oasis, została stworzona przez izraelską firmę Decart we współpracy z Etched. Gra, która powstała dzięki 21 milionom dolarów finansowania od dużych inwestorów, obiecuje zrewolucjonizować interaktywne granie. Oasis generuje świat gry, fizykę i elementy rozgrywki w czasie rzeczywistym, co oznacza, że każdy ruch gracza wpływa na otoczenie.
+🎮 **Rewolucja w grach wideo**  
+Oasis to pierwsza grywalna gra wideo generowana w całości przez AI, stworzona przez izraelską firmę Decart we współpracy z Etched. Gra ta nie korzysta z tradycyjnych silników gier ani predefiniowanych zasobów, lecz generuje środowisko, fizykę i elementy rozgrywki w czasie rzeczywistym na podstawie interakcji gracza. Dzięki zaawansowanej architekturze opartej na transformatorach i mechanizmie uwagi spatiotemporalnej, Oasis oferuje płynną i dynamiczną rozgrywkę.
 
-⚙️ **Technologia za Oasis**  
-Oasis działa na zaawansowanej architekturze opartej na transformatorach, co pozwala na generowanie klatek w zaledwie 0,04 sekundy. Dzięki zastosowaniu mechanizmów takich jak Variational Autoencoder i spatiotemporal attention, gra może płynnie przetwarzać dane przestrzenne i czasowe, co zapewnia dynamiczną rozgrywkę. Choć obecnie dostępna wersja demo działa w rozdzielczości 360p, technologia ma potencjał do obsługi 4K.
+🚀 **Innowacyjne technologie**  
+Oasis wykorzystuje nowoczesne technologie, takie jak Variational Autoencoder (VAE) i mechanizm uwagi spatiotemporalnej, co pozwala na efektywne przetwarzanie danych przestrzennych i czasowych. Dzięki temu gra działa płynnie nawet w rozdzielczości 4K, a każda akcja gracza wpływa na środowisko w czasie rzeczywistym. Obecnie dostępna jest wersja demo w rozdzielczości 360p, ale technologia ta ma potencjał do obsługi znacznie większych modeli.
 
-🖼️ **Personalizacja i przyszłość gier**  
-Oasis umożliwia graczom przesyłanie własnych obrazów, które są przekształcane w interaktywne środowiska. To otwiera nowe możliwości dla unikalnych doświadczeń gamingowych. Chociaż technologia AI w grach jest wciąż w początkowej fazie, to już teraz widać jej potencjał. Warto zauważyć, że w Chinach powstaje model GameGen-X, który ma na celu generowanie i interaktywne kontrolowanie gier w otwartym świecie.
+🖼️ **Tworzenie własnych światów**  
+Jedną z unikalnych funkcji Oasis jest możliwość tworzenia własnych środowisk gry poprzez przesyłanie obrazów. System integruje te obrazy z silnikiem fizyki gry, co pozwala na tworzenie spersonalizowanych doświadczeń. Gracze mogą dzielić się swoimi kreacjami na serwerze Discord Decart, co otwiera nowe możliwości dla społeczności graczy.
 
-🔮 **Perspektywy i wyzwania**  
-Mimo że Oasis ma swoje ograniczenia, takie jak problemy z jakością grafiki i animacji, to historia pokazuje, że pierwsze wersje technologii często nie oddają ich przyszłego potencjału. Z biegiem czasu możemy spodziewać się znacznych ulepszeń, co może zmienić sposób, w jaki postrzegamy tradycyjne silniki gier.
+🔮 **Przyszłość gier wideo**  
+Chociaż technologia AI w grach jest jeszcze w początkowej fazie, ma potencjał, aby zrewolucjonizować branżę. Oasis pokazuje, że AI może stać się kluczowym elementem przyszłych gier, choć na razie nie zastąpi tradycyjnych produkcji. W miarę jak technologia będzie się rozwijać, możemy spodziewać się coraz bardziej zaawansowanych i realistycznych gier generowanych przez AI.
 
 Źródło: [https://generativeai.pub/the-first-fully-ai-generated-video-game-is-here-e52e4bf78d2d](https://generativeai.pub/the-first-fully-ai-generated-video-game-is-here-e52e4bf78d2d)  
-#AI #GryWideo #Oasis #Technologia #Innowacje #GeneratywnaAI #GryInteraktywne #PrzyszłośćGier #Decart #GameGenX
+#AI #GryWideo #Innowacje #Technologia #Oasis #Decart #Etched #PrzyszłośćGier #GenerativeAI #NoweMożliwości

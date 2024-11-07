@@ -2,7 +2,7 @@ name: LinkedIn Auto Post
 
 on:
   schedule:
-    - cron: "5 19 * * *"  # Codziennie o 9:00 UTC (UTC = + 1h jeśli usawiona 19 to odpali się o 20)
+    - cron: "0 14 * * *"  # Codziennie o 14:00 UTC (UTC = + 1h jeśli usawiona 14 to odpali się o 15)
 
 jobs:
   publish_post:
@@ -16,9 +16,6 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
-
-#      - name: Install distutils
-#        run: sudo apt-get update && sudo apt-get install -y distutils
 
       - name: Install dependencies
         run: |
