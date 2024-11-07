@@ -2,7 +2,7 @@ name: LinkedIn Auto Post
 
 on:
   schedule:
-    - cron: "5 19 * * *"  # Codziennie o 9:00 UTC (sprawdź swoją strefę czasową!)
+    - cron: "5 19 * * *"  # Codziennie o 9:00 UTC (UTC = + 1h jeśli usawiona 19 to odpali się o 20)
 
 jobs:
   publish_post:
@@ -23,10 +23,12 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run LinkedIn Post Script
+        # Ustaw zmienną środowiskową na podstawie GitHub Secrets
         env:
           LINKEDIN_CLIENT_ID: ${{ secrets.LINKEDIN_CLIENT_ID }}
           LINKEDIN_CLIENT_SECRET: ${{ secrets.LINKEDIN_CLIENT_SECRET }}
           LINKEDIN_REDIRECT_URI: ${{ secrets.LINKEDIN_REDIRECT_URI }}
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           python src/main.py
