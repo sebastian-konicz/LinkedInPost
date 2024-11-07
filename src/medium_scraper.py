@@ -17,7 +17,7 @@ def medium_articles():
     month = f"{search_date.month:02}"
     year = search_date.year
 
-    # print('date:', date)
+    print('system date:', date)
     # print('day_of_week:', day_of_week)
     # print('day:', day)
     # print('month:', month)
@@ -40,7 +40,7 @@ def medium_articles():
     article_id = 0
 
     # articles for a given day:
-    print(f'{search_date_value}')
+    print(f'publication date: {search_date_value}')
     for publication, url in urls.items():
         print(publication)
 
