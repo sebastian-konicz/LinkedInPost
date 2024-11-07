@@ -44,7 +44,6 @@ def article_image():
     print("RESPONSE:\n", text_response)
 
     # ------------------------------------GETTING IMAGE FROM DALLE------------------------------------
-
     prompt_dalle = f"""
     W potrójnym cudzysłowiu znajduje się podsumowanie treści artykułu. Na podstawie podsumowania stwórz obraz, który będzie nawiązywał do treści artykułu i dobrze go zobrazuje odbiorcom na platformie LinkedIn.
     '''{text_response}'''

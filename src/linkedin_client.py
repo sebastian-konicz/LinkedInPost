@@ -1,6 +1,5 @@
 import requests
 
-
 class LinkedInClient:
     def __init__(self, access_token):
         self.api_url = "https://api.linkedin.com/v2/"
