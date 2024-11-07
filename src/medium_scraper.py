@@ -86,8 +86,8 @@ def medium_articles():
     df_sorted = medium_df.sort_values(by='claps', ascending=False)
 
     # top 'url' and 'title' dla najwyższej wartości 'claps'
-    top_title = df_sorted.iloc[1]['title']
-    top_url = df_sorted.iloc[1]['url']
+    top_title = df_sorted.iloc[0]['title']
+    top_url = df_sorted.iloc[0]['url']
 
     print(top_title)
     print(top_url)
