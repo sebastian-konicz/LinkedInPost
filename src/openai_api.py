@@ -13,7 +13,7 @@ def article_summary():
     client = OpenAI(api_key=OPENAI_API_KEY)
 
     # opening aritcle text
-    with open('data/article_text.txt', 'r') as file:
+    with open('article_text.txt', 'r') as file:
         # Wczytywanie całej zawartości pliku
         file = file.read()
 
@@ -46,7 +46,7 @@ def article_summary():
 
     print("RESPONSE:\n", text_response)
 
-    with open('data/post_text.txt', 'w', encoding='utf-8') as f:
+    with open('post_text.txt', 'w', encoding='utf-8') as f:
         f.write(f"{text_response}")
 
     # end time of program + duration

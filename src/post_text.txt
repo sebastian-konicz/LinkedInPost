@@ -1,0 +1,15 @@
+🎮 **Rewolucja w grach wideo**  
+Oasis to pierwsza w pełni generowana przez AI gra typu "open-world", stworzona przez izraelską firmę Decart we współpracy z Etched. Gra generuje środowisko, fizykę i elementy rozgrywki w czasie rzeczywistym, co czyni ją przełomową w porównaniu do tradycyjnych gier opartych na wcześniej zaprojektowanych zasobach. Dzięki zaawansowanej architekturze opartej na transformatorach i mechanizmie uwagi spatio-temporalnej, Oasis oferuje płynną i dynamiczną rozgrywkę, mimo że obecnie dostępna jest tylko w rozdzielczości 360p.
+
+🖼️ **Tworzenie własnych światów**  
+Jedną z unikalnych funkcji Oasis jest możliwość przesyłania własnych obrazów, które są przekształcane w grywalne środowiska. To otwiera drzwi do tworzenia spersonalizowanych doświadczeń w grach, gdzie każdy krok gracza kształtuje otoczenie w czasie rzeczywistym. Użytkownicy mogą dzielić się swoimi światami na serwerze Discord Decart, co sprzyja kreatywności i interakcji społecznej.
+
+🔮 **Przyszłość gier wideo**  
+AI powoli rewolucjonizuje przemysł gier wideo, choć technologia ta jest jeszcze w początkowej fazie rozwoju. Oasis to dopiero prototyp, ale jego pojawienie się może skłonić studia do inwestowania w badania nad pełnowymiarowymi produktami. Przykładem jest chiński projekt GameGen-X, który ma być open-source, co może przyspieszyć innowacje i współpracę w tej dziedzinie.
+
+🤔 **Wyzwania i perspektywy**  
+Mimo że Oasis spotyka się z mieszanymi opiniami, jakość grafiki i animacji może się poprawić, podobnie jak miało to miejsce z generatorami obrazów AI. Wczesne wersje technologii często są niedoskonałe, ale stanowią fundament dla przyszłych, bardziej zaawansowanych rozwiązań. Jak zauważa Dr. Károly Zsolnai-Fehér, nie należy oceniać technologii po jej obecnym stanie, lecz po potencjale rozwoju.
+
+Źródło: [The First Fully AI-Generated Video Game Is Here](https://generativeai.pub/the-first-fully-ai-generated-video-game-is-here-e52e4bf78d2d)
+
+#OasisGame #AIgaming #OpenWorld #Decart #Etched #GameInnovation #AItechnology #FutureOfGaming #GameGenX #aigeneratedpost

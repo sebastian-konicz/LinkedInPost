@@ -1,6 +1,6 @@
 # LinkedIn Post Automation Project
 This project automates the process of posting on LinkedIn using the LinkedIn API and integrates with OpenAI's API to generate content. The project is designed to streamline LinkedIn posting by fetching article data, creating posts with images, and publishing them.
-![Logo projektu](src/data/project_logo.png)
+![Logo projektu](src/project_logo.png)
 
 ## Features
 - **Automated LinkedIn Posts**: Automatically post on LinkedIn with generated or fetched content.
@@ -13,8 +13,8 @@ This project automates the process of posting on LinkedIn using the LinkedIn API
 - `config`: Configuration files, including settings for APIs.
 - `src`: Contains main modules for data scraping, API interaction, and posting automation.
   - `linkedin_client.py`: Handles LinkedIn API interactions.
+  - `medium_scraper.py`: Scrapes top article in AI subject on a given day form medium.com
   - `openai_api.py` & `openai_api_images.py`: Interact with OpenAI API for text and image generation.
-  - `data`: Stores input data for posts, including images and article text.
 - `venv`: Virtual environment directory (not included in the repository).
 
 ## Installation

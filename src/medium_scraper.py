@@ -96,11 +96,8 @@ def medium_articles():
     file_name = f'medium_data'
     # file_name = f'medium_data_{year}_{month}_{day}'
 
-    # Sprawdzenie i utworzenie katalogu 'data', jeśli nie istnieje
-    os.makedirs('src/data', exist_ok=True)
-
-    medium_df.to_csv(f'data/{file_name}.csv', index=False)
-    # medium_df.to_parquet(f'data/{file_name}.csv', engine='pyarrow', compression='gzip')
+    medium_df.to_csv(f'{file_name}.csv', index=False)
+    # medium_df.to_parquet(f'{file_name}.csv', engine='pyarrow', compression='gzip')
 
     return top_url
 
@@ -125,7 +122,7 @@ def freedium_article(top_url):
 
     # saving file
     print('article text has been saved')
-    with open('data/article_text.txt', 'w', encoding='utf-8') as f:
+    with open('article_text.txt', 'w', encoding='utf-8') as f:
         f.write(f"{full_text}")
 
 if __name__ == "__main__":

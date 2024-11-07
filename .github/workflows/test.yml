@@ -22,9 +22,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Create src/data directory
-        run: mkdir -p src/data
-
       - name: Run LinkedIn Post Script
         # Ustaw zmienną środowiskową na podstawie GitHub Secrets
         env:
