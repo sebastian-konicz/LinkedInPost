@@ -1,15 +1,16 @@
-🎮 **Rewolucja w grach wideo**  
-Oasis to pierwsza w pełni generowana przez AI gra typu "open-world", stworzona przez izraelską firmę Decart we współpracy z Etched. Gra generuje środowisko, fizykę i elementy rozgrywki w czasie rzeczywistym, co czyni ją przełomową w porównaniu do tradycyjnych gier opartych na wcześniej zaprojektowanych zasobach. Dzięki zaawansowanej architekturze opartej na transformatorach i mechanizmie uwagi spatio-temporalnej, Oasis oferuje płynną i dynamiczną rozgrywkę, mimo że obecnie dostępna jest tylko w rozdzielczości 360p.
+🎨 Sztuka rzeźbiarskiego malarstwa 🎨  
+Rzeźbiarskie malarstwo to fascynujące połączenie technik malarskich i rzeźbiarskich, które tworzy powierzchnie dotykowe, zacierając granice między sztuką dwuwymiarową a trójwymiarową. Poprzez nakładanie warstw materiałów, takich jak gips czy drewno, artyści mogą osiągnąć znaczną trójwymiarowość, tworząc immersyjne doświadczenia. Kluczowe jest jednak dobranie odpowiednich materiałów, które zapewnią trwałość i atrakcyjność wizualną dzieła.
 
-🖼️ **Tworzenie własnych światów**  
-Jedną z unikalnych funkcji Oasis jest możliwość przesyłania własnych obrazów, które są przekształcane w grywalne środowiska. To otwiera drzwi do tworzenia spersonalizowanych doświadczeń w grach, gdzie każdy krok gracza kształtuje otoczenie w czasie rzeczywistym. Użytkownicy mogą dzielić się swoimi światami na serwerze Discord Decart, co sprzyja kreatywności i interakcji społecznej.
+🖌️ Materiały i powierzchnie 🖌️  
+Wybór materiałów i powierzchni ma kluczowe znaczenie dla osiągnięcia pożądanej głębi w rzeźbiarskich malowidłach. Gips, drewno, metal, żywica, tkaniny i znalezione przedmioty to tylko niektóre z materiałów, które mogą być używane do budowania i wzmacniania trójwymiarowości. Podobnie, powierzchnie takie jak panele drewniane, płótna czy plexiglas wpływają na ostateczny wygląd dzieła, oferując różne możliwości teksturalne i strukturalne.
 
-🔮 **Przyszłość gier wideo**  
-AI powoli rewolucjonizuje przemysł gier wideo, choć technologia ta jest jeszcze w początkowej fazie rozwoju. Oasis to dopiero prototyp, ale jego pojawienie się może skłonić studia do inwestowania w badania nad pełnowymiarowymi produktami. Przykładem jest chiński projekt GameGen-X, który ma być open-source, co może przyspieszyć innowacje i współpracę w tej dziedzinie.
+🤖 AI w sztuce rzeźbiarskiej 🤖  
+Sztuka generowana przez AI oferuje innowacyjne podejście do eksploracji efektów trójwymiarowych w sposób cyfrowy. Choć prawdziwe rzeźbiarskie malowidła oferują najautentyczniejsze doświadczenie głębi i tekstury, obrazy generowane przez AI mogą tworzyć bardziej przekonujące iluzje wymiarowości, łącząc klasyczne techniki 3D z nowoczesną technologią.
 
-🤔 **Wyzwania i perspektywy**  
-Mimo że Oasis spotyka się z mieszanymi opiniami, jakość grafiki i animacji może się poprawić, podobnie jak miało to miejsce z generatorami obrazów AI. Wczesne wersje technologii często są niedoskonałe, ale stanowią fundament dla przyszłych, bardziej zaawansowanych rozwiązań. Jak zauważa Dr. Károly Zsolnai-Fehér, nie należy oceniać technologii po jej obecnym stanie, lecz po potencjale rozwoju.
+🌟 Eksperymentowanie z głębią 🌟  
+Podczas tworzenia rzeźbiarskiego malarstwa kluczowe jest eksperymentowanie z różnymi materiałami i powierzchniami, aby podkreślić imponujący efekt "pop-out". Warto również bawić się cieniami, światłem oraz kolorami, aby stworzyć unikalne efekty wizualne, które przyciągną uwagę odbiorców.
 
-Źródło: [The First Fully AI-Generated Video Game Is Here](https://generativeai.pub/the-first-fully-ai-generated-video-game-is-here-e52e4bf78d2d)
+💡 Sztuka rzeźbiarska oferuje ograniczoną głębię, ale nieskończone możliwości tworzenia unikalnych, przyciągających wzrok dzieł. Zachęcam do eksperymentowania i dzielenia się swoimi przemyśleniami w komentarzach!  
 
-#OasisGame #AIgaming #OpenWorld #Decart #Etched #GameInnovation #AItechnology #FutureOfGaming #GameGenX #aigeneratedpost
+Źródło: https://generativeai.pub/ai-art-creating-real-3d-effects-with-sculptural-painting-b9d6c2bffb46  
+#AIArt #3DEffects #SculpturalPainting #DigitalArt #ArtInnovation #CreativeTechniques #GenerativeAI #ArtMaterials #VisualIllusions #aigeneratedpost

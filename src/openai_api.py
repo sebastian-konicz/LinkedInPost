@@ -18,10 +18,15 @@ def article_summary():
         file = file.read()
 
     prompt = f"""
-    Podsumuj po polsku artykuł znajdujący się w potrójnym cudzysłowiu. 
-    Na samym końcu wypowiedzi dodaj 10 hasztagów, które odnoszą się do artykułu. Ostatnim hasztagiem ma być #aigeneratedpost
+    Wciel się w rolę profesjonalnego influencera na LinkeIn i podsumuj po polsku artykuł znajdujący się w potrójnym cudzysłowiu.
+    Swoją odpowiedź podziel na paragrafy.
+    Tytuły paragrafów nie powinny zawierać gwiazdek czy innych oznaczeń. 
+    Tytuły paragrafów się zaczynały i kończyły od emotikony nawiązującej do treści paragrafu.
+    Na koniec podsumowania zaprezenuj kluczową myśl wynikającą z artykułu poprzedzoną odpowiednią emotikoną. 
+    Kluczowa myśl nie powinna być poprzedzona sformuławaniem "Kluczowa myśl:", tylko być samodzielnym zdzaniem.
+    Zachęć odbiorców postu do dyskusji w komentarzach.
+    Na samym końcu wypowiedzi dodaj 10 hasztagów w języku angielskim, które odnoszą się do artykułu. Ostatnim hasztagiem ma być #aigeneratedpost
     Przed hasztagami umieść link do arykułu, który znajduje się w tekscie po frazie "ARTICLE LINK:", poprzedzając go wyrazem "Źródło:" 
-    Swoją odpowiedź podziel na paragrafy, które będą się zaczynały od emotikony nawiązującej do treści paragrafu.
     Odpowiedź ma mieć maksymalnie 2000 znaków.
     '''{file}'''
     """
